@@ -1,0 +1,34 @@
+    1  cd c
+   
+    4  mkdir gitTest
+    5  cd gitTest
+  
+   24  cd Practica1
+   25  git status
+   26  git add .
+   27  git commit -m "Primer archivo modificado"
+   28  clear
+   29  git push
+   30  history
+
+$ history
+    1  cd c:
+    2  mkdir gittest
+    3  https://github.com/ByronSi/repos01.git
+    4  cd gittest:
+    5  cd gittest
+    6  git clone https://github.com/ByronSi/repos01.git
+    7  clean
+    8  clear:
+    9  clear
+   10  showme:
+   11  dir
+   12  cd repos01
+   13  clear
+   14  git status
+   15  dir
+   16  git add uno.txt
+   17  git commit -m "Sirve para confirmar y poner un comentario"
+   18  git push
+   19  history
+
